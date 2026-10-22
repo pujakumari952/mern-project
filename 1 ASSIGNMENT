@@ -1,0 +1,4 @@
+QUESTION
+Assignment 1 – What happens between typing a URL and seeing the page?
+ANSWER
+When we type a URL in the browser and press Enter, the browser finds the websites, server using DNS.Then it connects to the server and sends a request. The server sends back the website data, including HTML, CSS and java script. the browser reads this data and shows the webpage on the screen.Javascript helps make the page interactive.
